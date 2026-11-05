@@ -1,7 +1,12 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "",
+  "versionCode": 2,
+  "versionName": "2.0",
+  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/video_downloader_v2.0.apk",
   "force": true,
-  "message": "نزلت نسخة جديدة من تطبيق تحميل الفيديوهات."
+  "message": "نزلت نسخة جديدة من تطبيق تحميل الفيديوهات بالواجهة الجديدة والوضع الداكن."
 }
+
+
+
+
+
