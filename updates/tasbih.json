@@ -1,7 +1,7 @@
 {
-  "versionCode": 21,
-  "versionName": "1.2",
-  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/tasbih_v1.2.apk",
+  "versionCode": 23,
+  "versionName": "1.3",
+  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/tasbih_v1.3.apk",
   "force": true,
-  "message": "نزلت نسخة جديدة من تطبيق السبحة: خط أكبر يملأ الصفحة وزوم أعمق."
+  "message": "نزلت نسخة جديدة من تطبيق السبحة: رقم الصفحة بقى واضح تحت الصفحة ومش بيغطي على الآيات."
 }
