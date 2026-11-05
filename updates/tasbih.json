@@ -1,7 +1,7 @@
 {
-  "versionCode": 6,
-  "versionName": "1.1",
-  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/tasbih_v1.1_update_test.apk",
+  "versionCode": 19,
+  "versionName": "1.2",
+  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/tasbih_v1.2.apk",
   "force": true,
-  "message": "نزلت نسخة جديدة من تطبيق السبحة."
+  "message": "نزلت نسخة جديدة من تطبيق السبحة: المصحف الشريف بصفحاته الحقيقية."
 }
