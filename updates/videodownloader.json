@@ -1,7 +1,7 @@
 {
-  "versionCode": 5,
-  "versionName": "2.3",
-  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/video_downloader_v2.3.apk",
+  "versionCode": 6,
+  "versionName": "2.4",
+  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/video_downloader_v2.4.apk",
   "force": true,
-  "message": "إصلاح إجبار التحديث: الديالوج هيظهر تاني فورًا لو رجعت من غير ما تحدّث."
+  "message": "تحديث تجريبي لاختبار الإصلاح."
 }
