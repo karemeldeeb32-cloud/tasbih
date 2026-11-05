@@ -1,7 +1,7 @@
 {
-  "versionCode": 3,
-  "versionName": "2.1",
-  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/video_downloader_v2.1.apk",
+  "versionCode": 4,
+  "versionName": "2.2",
+  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/video_downloader_v2.2.apk",
   "force": true,
-  "message": "إصلاح مهم: التحديث بقى إجباري فعلا — حدّث عشان تكمل."
+  "message": "نسخة تجريبية لاختبار التحديث الإجباري."
 }
