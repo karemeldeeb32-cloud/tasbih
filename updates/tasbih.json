@@ -1,7 +1,7 @@
 {
-  "versionCode": 29,
-  "versionName": "1.9",
-  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/tasbih_v1.9.apk",
+  "versionCode": 30,
+  "versionName": "2.0",
+  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/tasbih_v2.0.apk",
   "force": true,
   "message": "نزلت نسخة جديدة من تطبيق السبحة: المصحف بقى كتاب مفتوح صفحتين، والنص بقى واضح ومش معكوس لما تقلب الصفحة."
 }
