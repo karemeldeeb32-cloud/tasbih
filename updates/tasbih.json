@@ -1,7 +1,7 @@
 {
-  "versionCode": 40,
-  "versionName": "2.10",
-  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/tasbih_v2.10.apk",
+  "versionCode": 43,
+  "versionName": "2.13",
+  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/tasbih_v2.13.apk",
   "force": true,
-  "message": "نزلت نسخة جديدة من تطبيق السبحة 2.10: أضفنا قسم الدعم الجديد في الإعدادات، تقدر تتواصل معنا وتبعتلنا اقتراحاتك بسهولة"
+  "message": "نزلت نسخة جديدة من تطبيق السبحة 2.13: الأذكار بقت ٨ أقسام (الصباح والمساء والنوم والاستيقاظ وبعد الصلاة والمسجد ودعاء السفر والرقية الشرعية) والسور القرآنية فيها كاملة، وبأيقونات جديدة مرسومة"
 }
