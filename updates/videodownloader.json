@@ -1,7 +1,7 @@
 {
-  "versionCode": 8,
-  "versionName": "2.6",
-  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/video_downloader_v2.6.apk",
+  "versionCode": 10,
+  "versionName": "2.7",
+  "apkUrl": "https://raw.githubusercontent.com/karemeldeeb32-cloud/tasbih/main/releases/video_downloader_v2.7.apk",
   "force": true,
-  "message": "شاشة البداية بقت ثانية واحدة بس."
+  "message": "نسخة جديدة: الإعلانات بقت شغالة في التطبيق."
 }
